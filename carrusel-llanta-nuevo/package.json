@@ -6,12 +6,10 @@
   "homepage": "https://mariaconejo.github.io/Carrusel-llanta/",
   "scripts": {
     "dev": "vite",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^12.20.1",
