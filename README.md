@@ -1,7 +1,8 @@
-```markdown
-# 🌄 Carrusel Rotativo Interactivo para Destinos Naturales
 
-![Carrusel Preview](https://mariaconejo.github.io/Carrusel-llanta/)
+# 🌄 Carrusel Rotativo Interactivo
+
+[Carrusel Preview](https://mariaconejo.github.io/Carrusel-llanta/)
+
 
 Un carrusel circular interactivo que muestra destinos naturales con animaciones fluidas, navegación accesible y diseño responsivo.
 
@@ -143,7 +144,6 @@ npm run dev
 ```
 
 
-
 ## 📊 Optimizaciones Clave
 
 | Área | Técnica |
@@ -154,13 +154,3 @@ npm run dev
 | Accesibilidad | Soporte completo de navegación por teclado |
 | Imágenes | Compresión y formato moderno con Cloudinary |
 
-## 🤝 Contribuciones
-
-¡Contribuciones son bienvenidas! Por favor:
-1. Abre un Issue para discutir el cambio
-2. Haz fork del repositorio
-3. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
-4. Haz commit de tus cambios (`git commit -am 'Add nueva funcionalidad'`)
-5. Haz push a la rama (`git push origin feature/nueva-funcionalidad`)
-6. Abre un Pull Request
-```
