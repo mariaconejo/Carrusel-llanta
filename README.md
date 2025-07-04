@@ -1,5 +1,5 @@
 
-# 🌄 Carrusel Rotativo Interactivo para Destinos Naturales
+# 🌄 Carrusel Rotativo Interactivo
 
 [Carrusel Preview](https://mariaconejo.github.io/Carrusel-llanta/)
 
