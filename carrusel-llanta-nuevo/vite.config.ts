@@ -8,4 +8,3 @@ export default defineConfig({
   base: '/Carrusel-llanta/',
   plugins: [react()],
 })
-
