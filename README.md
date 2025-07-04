@@ -1,7 +1,8 @@
 
 # 🌄 Carrusel Rotativo Interactivo para Destinos Naturales
 
-![Carrusel Preview](https://mariaconejo.github.io/Carrusel-llanta/)
+[Carrusel Preview](https://mariaconejo.github.io/Carrusel-llanta/)
+
 
 Un carrusel circular interactivo que muestra destinos naturales con animaciones fluidas, navegación accesible y diseño responsivo.
 
